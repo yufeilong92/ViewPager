@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\yfl\\demo\\MyApplication2\\XRefreshView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xrefreshview_arrow.png",
+        "source": "E:\\yfl\\demo\\MyApplication2\\XRefreshView\\src\\main\\res\\drawable-hdpi\\xrefreshview_arrow.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\MyApplication2\\XRefreshView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xrefresh_ok.png",
+        "source": "E:\\yfl\\demo\\MyApplication2\\XRefreshView\\src\\main\\res\\drawable-hdpi\\xrefresh_ok.png"
+    }
+]
